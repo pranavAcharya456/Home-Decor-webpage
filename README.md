@@ -1,0 +1,2 @@
+The HomeNest Home Décor E-Commerce Website was successfully developed using HTML5, CSS3, and JavaScript.All five pages are work together to simulate a real e-commerce experience. The website demonstrates clean UI design with a consistent colour scheme, readable typography, and a structured layout across all pages.
+This project helped in understanding how to build a complete website from scratch and how HTML, CSS, and JavaScript work together to create a functional and visually appealing web application.
